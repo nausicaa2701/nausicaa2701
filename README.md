@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Hong Cuc (Nausicaa)
 
-My greatest motivation is to become a remote researcher and build a life where I can travel while continuing to work and grow.
+My greatest motivation is to become a researcher and build a life that combines academic growth, meaningful work, and the opportunity to explore the world.
 
 At the moment, I’m pursuing an application-oriented research path, with a strong interest in **Explainable AI (XAI)**, **Natural Language Processing (NLP)**, and **Quantitative Finance**.
 
