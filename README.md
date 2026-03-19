@@ -1,12 +1,9 @@
-# 👋 Hi, I’m Hong Cuc (Nausicaa)
+## 👋 Hi, I'm Hong Cuc (Nausicaa)
 
-* Master’s student in Computer Science with a background in software engineering
-* Currently working mainly with frontend development using Angular and React, and learning about scalable UI architectures
-* Have experience participating in projects that integrate Generative AI features such as chat assistants and semantic search
-* Interested in learning more about AI systems, especially topics related to reasoning, evaluation, and intelligent agents
-* Open to learning, collaboration, and contributing to software or AI-related projects
+My greatest motivation is to become a remote researcher and build a life where I can travel while continuing to work and grow.
 
-### Connect with me
+At the moment, I’m pursuing an application-oriented research path, with a strong interest in **Explainable AI (XAI)**, **Natural Language Processing (NLP)**, and **Quantitative Finance**.
 
-* Email: [cuclth2701@gmail.com](mailto:cuclth2701@gmail.com)
-* LinkedIn: [linkedin.com/in/lthc9](https://www.linkedin.com/in/lthc9/)
+With a background in software engineering and over **4 years of industry experience**, I believe I can transform creative ideas into practical, impactful solutions for myself and the people or organizations I collaborate with.
+
+I hope to keep moving forward with persistence and stay committed to the path I have chosen.
