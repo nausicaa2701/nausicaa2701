@@ -5,7 +5,6 @@
     <img src="assets/portrait-light.svg" width="220" alt="Nausicaä smiling">
   </picture>
   <h2>Hi, I'm Nausicaä.</h2>
-  <p>Thi-Hong-Cuc Le</p>
   <p>
     <a href="https://nausmind.com/">🔗 Website</a> ·
     <a href="https://scholar.google.com/citations?user=C4zRCk0AAAAJ&amp;hl=en">🎓 Scholar</a> ·
@@ -17,11 +16,7 @@
 <h2>👋 About Me</h2>
 <p>I'm Thi-Hong-Cuc Le, also known as Nausicaä, a researcher and software engineer based in Vietnam. I'm currently pursuing an M.Sc. in Computer Science at HCMUT.</p>
 <p>My research focuses on trustworthy and efficient AI, with a particular interest in understanding, evaluating, and improving the reliability of intelligent systems.</p>
-<ul>
-  <li>Research Engineer at RAISE Lab, HCMUT.</li>
-  <li>Senior Research Assistant at URA Research Group, HCMUT.</li>
-  <li>Software Engineer at Bosch Global Software Technologies.</li>
-</ul>
+
 
 <h2>🔬 Research Interests</h2>
 <ul>
@@ -43,21 +38,7 @@
 </table>
 <p>Explore my publications on <a href="https://scholar.google.com/citations?user=C4zRCk0AAAAJ&amp;hl=en">Google Scholar</a>.</p>
 
-<h2>💼 Experience</h2>
-<table>
-  <thead><tr><th>Organization</th><th>Role</th><th>Period</th></tr></thead>
-  <tbody>
-    <tr><td><strong>Bosch Global Software Technologies</strong></td><td>Software Engineer — Data Analytics, Frontend &amp; AI/ML</td><td>2022 – Present</td></tr>
-    <tr><td><strong>RAISE Lab · HCMUT</strong></td><td>Research Engineer</td><td>2026 – Present</td></tr>
-    <tr><td><strong>URA Research Group · HCMUT</strong></td><td>Senior Research Assistant</td><td>2026 – Present</td></tr>
-  </tbody>
-</table>
 
-<h2>🎓 Education</h2>
-<ul>
-  <li><strong>M.Sc. in Computer Science</strong><br>Ho Chi Minh City University of Technology (HCMUT)<br><sub>2025 – Present</sub></li>
-  <li><strong>B.Eng. in Information Systems</strong><br>University of Information Technology (UIT), VNU-HCM<br><sub>2019 – 2024</sub></li>
-</ul>
 
 <h2>🛠️ Tech Stack</h2>
 <div align="left">
