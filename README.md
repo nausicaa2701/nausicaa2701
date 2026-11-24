@@ -6,10 +6,10 @@
   </picture>
   <h2>Hi, I'm Nausicaä.</h2>
   <p>
-    <a href="https://nausmind.com/">🔗 Website</a> ·
-    <a href="https://scholar.google.com/citations?user=C4zRCk0AAAAJ&amp;hl=en">🎓 Scholar</a> ·
-    <a href="https://orcid.org/0009-0003-4251-4106">🆔 ORCID</a> ·
-    <a href="https://www.linkedin.com/in/lthc9/">💼 LinkedIn</a>
+    <a href="https://nausmind.com/"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge" alt="Website" /></a>
+    <a href="https://scholar.google.com/citations?user=C4zRCk0AAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
+    <a href="https://orcid.org/0009-0003-4251-4106"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
+    <a href="https://www.linkedin.com/in/lthc9/"><img src="docs/assets/icons/linkedin.svg" alt="LinkedIn" /></a>
   </p>
 </div>
 
@@ -44,36 +44,36 @@
 <div align="left">
   <h4>Programming Languages</h4>
   <p>
-    <img src="https://img.shields.io/badge/Python-30343b?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/TypeScript-30343b?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/JavaScript-30343b?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="JavaScript">
-    <img src="https://img.shields.io/badge/SQL-30343b?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
   </p>
   <h4>AI &amp; Machine Learning</h4>
   <p>
-    <img src="https://img.shields.io/badge/PyTorch-30343b?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/Hugging%20Face-30343b?style=flat-square&amp;logo=huggingface&amp;logoColor=white" alt="Hugging Face">
-    <img src="https://img.shields.io/badge/scikit--learn-30343b?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
-    <img src="https://img.shields.io/badge/NumPy-30343b?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
-    <img src="https://img.shields.io/badge/Pandas-30343b?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/OpenAI-30343b?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="OpenAI">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="pandas" />
+    <img src="docs/assets/icons/openai.svg" alt="OpenAI" />
   </p>
   <h4>Software Engineering</h4>
   <p>
-    <img src="https://img.shields.io/badge/Angular-30343b?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular">
-    <img src="https://img.shields.io/badge/React-30343b?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React">
-    <img src="https://img.shields.io/badge/Electron-30343b?style=flat-square&amp;logo=electron&amp;logoColor=white" alt="Electron">
-    <img src="https://img.shields.io/badge/Node.js-30343b?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/PrimeNG-30343b?style=flat-square&amp;logo=primeng&amp;logoColor=white" alt="PrimeNG">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&amp;logo=electron&amp;logoColor=white" alt="Electron" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&amp;logo=primeng&amp;logoColor=white" alt="PrimeNG" />
   </p>
   <h4>Research &amp; Development Tools</h4>
   <p>
-    <img src="https://img.shields.io/badge/Git-30343b?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/Docker-30343b?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/LaTeX-30343b?style=flat-square&amp;logo=latex&amp;logoColor=white" alt="LaTeX">
-    <img src="https://img.shields.io/badge/Jupyter-30343b?style=flat-square&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter">
-    <img src="https://img.shields.io/badge/Figma-30343b?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Azure-30343b?style=flat-square&amp;logoColor=white" alt="Azure">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&amp;logo=latex&amp;logoColor=white" alt="LaTeX" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
+    <img src="docs/assets/icons/microsoftazure.svg" alt="Microsoft Azure" />
   </p>
 </div>
 
