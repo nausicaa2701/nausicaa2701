@@ -6,7 +6,7 @@
   </picture>
   <h2>Hi, I'm Nausicaä.</h2>
   <p>
-    <a href="https://nausmind.com/"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge" alt="Website" /></a>
+    <a href="https://nausmind.com/"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge" alt="Portfolio" /></a>
     <a href="https://scholar.google.com/citations?user=C4zRCk0AAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
     <a href="https://orcid.org/0009-0003-4251-4106"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
     <a href="https://www.linkedin.com/in/lthc9/"><img src="docs/assets/icons/linkedin.svg" alt="LinkedIn" /></a>
@@ -18,7 +18,7 @@
 <p>My research focuses on trustworthy and efficient AI, with a particular interest in understanding, evaluating, and improving the reliability of intelligent systems.</p>
 
 
-<h2>🔬 Research Interests</h2>
+<h2>Research Interests</h2>
 <ul>
   <li><strong>Trustworthy &amp; Explainable AI</strong> — Model reliability, robustness, interpretability, and AI assurance.</li>
   <li><strong>Efficient AI</strong> — Model compression, post-training quantization, mixed-precision inference, and on-device deployment.</li>
@@ -27,7 +27,7 @@
   <li><strong>AI for Scientific Discovery</strong> — Physics-informed learning and intelligent engineering design.</li>
 </ul>
 
-<h2>📚 Research Highlights</h2>
+<h2>Research Highlights</h2>
 <table>
   <thead><tr><th>Venue</th><th>Research</th><th>Recognition</th></tr></thead>
   <tbody>
@@ -40,7 +40,7 @@
 
 
 
-<h2>🛠️ Tech Stack</h2>
+<h2>Tech Stack</h2>
 <div align="left">
   <h4>Programming Languages</h4>
   <p>
@@ -77,18 +77,7 @@
   </p>
 </div>
 
-<h2>📈 Contribution Activity</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nausicaa2701&amp;bg_color=0d1117&amp;color=f0a6bc&amp;line=f0a6bc&amp;point=ffffff&amp;hide_border=true&amp;area=true&amp;area_color=f0a6bc">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nausicaa2701&amp;bg_color=ffffff&amp;color=9d4563&amp;line=d47898&amp;point=9d4563&amp;hide_border=true&amp;area=true&amp;area_color=f0a6bc">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nausicaa2701&amp;hide_border=true" alt="GitHub Contribution Activity">
-  </picture>
-</div>
-
-<h2>🌿 Off the Clock</h2>
-<p>Beyond research and engineering, I enjoy exploring new places, discovering different cultures, capturing little moments, and learning something new every day.</p>
-<hr>
+<br/>
 <div align="center">
   <i>A little courage, a curious heart, and a whole world to explore.</i> 🍀
 </div>
