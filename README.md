@@ -77,7 +77,8 @@
 
 <br/>
 <div align="center">
-  <i>A little courage, a curious heart, and a whole world to explore.</i> 🍀
+  <i>"And, when you want something, all the universe conspires in helping you to achieve it."</i><br>
+  Paulo Coelho, <i>The Alchemist</i>
 </div>
 <div align="center">
   <img width="100%" src="assets/footer.svg" alt="Decorative pink waves">
