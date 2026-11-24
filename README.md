@@ -32,12 +32,10 @@
   <thead><tr><th>Venue</th><th>Research</th><th>Recognition</th></tr></thead>
   <tbody>
     <tr><td><strong>ASE 2026</strong><br>CORE A*</td><td><strong>GraphLedger</strong><br>Repository-level vulnerability detection via graph-based compression and assumption validation.</td><td>First Author</td></tr>
-    <tr><td><strong>ICDM 2026</strong><br>CORE A*</td><td><strong>LTM-RAG</strong><br>Longitudinal trust mining for poison-resilient retrieval-augmented generation.</td><td>First Author · Oral Presentation</td></tr>
+    <tr><td><strong>ICDM 2026</strong><br>CORE A*</td><td><strong>LTM-RAG</strong><br>Longitudinal trust mining for poison-resilient retrieval-augmented generation.</td><td>First Author</td></tr>
     <tr><td><strong>IEA/AIE 2026</strong></td><td><strong>From Black-Box to Glass-Box</strong><br>Explainable AI for applied intelligent software systems.</td><td>🏆 Best Paper Award</td></tr>
   </tbody>
 </table>
-<p>Explore my publications on <a href="https://scholar.google.com/citations?user=C4zRCk0AAAAJ&amp;hl=en">Google Scholar</a>.</p>
-
 
 
 <h2>Tech Stack</h2>
