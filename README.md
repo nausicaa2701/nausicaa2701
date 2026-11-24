@@ -1,80 +1,40 @@
-```bash
-nausicaa@research:~$ cat README.md
-```
-
-<table>
-<tr>
-<td width="280" valign="top">
-<img src="assets/portrait.png" width="260" alt="Halftone portrait of Nausicaä">
-</td>
-<td valign="middle">
-
-# HI, I'M NAUSICAÄ. _
-
-**THI-HONG-CUC LE**
-
-`Researcher / Software Engineer / Explorer`
-
-I work on **Trustworthy AI**, **Explainable AI**, and
-**Software Engineering**, with a focus on building intelligent
-systems that are reliable, interpretable, and practical.
-
-</td>
-</tr>
-</table>
-
-```ruby
-# 01 / my.profile ----------------------------------------
-
-name        := "Thi-Hong-Cuc Le (Nausicaä)"
-affiliation := "HCMUT (M.Sc. in Computer Science) × Bosch"
-experience  := "4+ years in industry"
-theme       := "research × engineering × real-world impact"
-
-
-# 02 / research.interests --------------------------------
-
-interests := [
-    "Trustworthy AI",
-    "Explainable AI (XAI)",
-    "LLM Agents",
-    "Retrieval-Augmented Generation (RAG)",
-    "Software Engineering",
-    "AI for Scientific & Engineering Design"
-]
-
-
-# 03 / selected.highlights -------------------------------
-
-publications := {
-    "ASE 2026 (A*)"     => "First Author",
-    "ICDM 2026 (A*)"    => "First Author",
-    "IEA/AIE 2026"      => "Best Paper Award"
-}
-
-
-# 04 / beyond.research -----------------------------------
-
-beyond := [
-    "build meaningful products",
-    "explore new places",
-    "capture moments",
-    "keep learning new things"
-]
-
-
-# 05 / motto ---------------------------------------------
-
-"A little courage, a curious heart,
- and a whole world to explore." 🍀
-```
-
-### `# 06 / links`
-
-[Website](https://nausicaa.dev) ·
-[Google Scholar](https://scholar.google.com/scholar?q=Thi-Hong-Cuc+Le) ·
-[LinkedIn](https://www.linkedin.com/in/thi-hong-cuc-le)
-
-```bash
-nausicaa@research:~$ █
-```
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.svg">
+    <img align="left" src="assets/portrait-light.svg" width="200" alt="Dot art portrait of Nausicaä">
+  </picture>
+  <h1>Hi, I'm Nausicaä.</h1>
+  <p><strong>Thi-Hong-Cuc Le</strong></p>
+  <p>Researcher · Software Engineer · Explorer</p>
+  <p>My research lies at the intersection of trustworthy AI and software engineering, with a focus on making intelligent systems more reliable, interpretable, and practical.</p>
+  <p>Currently pursuing an M.Sc. in Computer Science at HCMUT while working as a Software Engineer at Bosch.</p>
+  <p><a href="https://nausmind.com/">Website</a> · <a href="https://scholar.google.com/scholar?q=Thi-Hong-Cuc+Le">Google Scholar</a> · <a href="https://www.linkedin.com/in/thi-hong-cuc-le">LinkedIn</a></p>
+</div>
+<br clear="all">
+<div align="left">
+  <h2>Research Interests</h2>
+  <ul>
+    <li>Trustworthy &amp; Explainable AI</li>
+    <li>Large Language Models, Agents &amp; RAG</li>
+    <li>AI for Software Engineering</li>
+    <li>AI for Scientific &amp; Engineering Design</li>
+  </ul>
+</div>
+<div align="left">
+  <h2>Selected Highlights</h2>
+  <ul>
+    <li><strong>ASE 2026 (A*)</strong> — First Author</li>
+    <li><strong>ICDM 2026 (A*)</strong> — First Author</li>
+    <li><strong>IEA/AIE 2026</strong> — Best Paper Award</li>
+  </ul>
+</div>
+<div align="left">
+  <h2>Beyond Research</h2>
+  <p>With over four years of industry experience, I enjoy bridging the gap between research and real-world engineering.</p>
+  <p>Beyond academia and technology, I find joy in exploring new places, capturing moments, and discovering different ways of seeing the world.</p>
+</div>
+<hr>
+<div align="left">
+  <i>A little courage, a curious heart, and a whole world to explore.</i> 🍀
+</div>
